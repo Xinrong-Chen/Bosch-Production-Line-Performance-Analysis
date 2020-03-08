@@ -1,4 +1,8 @@
-# Kaggle contest: [Bosch Production Line Performance Analysis](https://www.kaggle.com/c/bosch-production-line-performance/overview)
+# DNSC 6278 Project -- [Bosch Production Line Performance](https://www.kaggle.com/c/bosch-production-line-performance/overview) 
+
+**Group Members:** Qianying Diao, Jiaru Xu, Xinrong Chen, Shirley Zhang
+
+![Kaggle icon](https://github.com/jiaruxu233/Big-Data-Project/blob/master/Pics/1563903920326.jpg)
 
 
 ## Project Introduction
@@ -91,4 +95,3 @@ Besides, we would use alternative methods to deal with imbalanced, sparse data a
 
 ### Hope you enjoy our work! Thanks! :)
 
-Team Members: Qianying Diao, Jiaru Xu, Xinrong Chen, Shirley Zhang
