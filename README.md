@@ -1,9 +1,7 @@
-# Kaggle contest: [Bosch Production Line Performance](https://www.kaggle.com/c/bosch-production-line-performance/overview)
+# Kaggle contest: [Bosch Production Line Performance Analysis](https://www.kaggle.com/c/bosch-production-line-performance/overview)
 
 
 ## Project Introduction
-
-### Summary
 
 For our project, we focus on performance prediction for **[Bosch production line](https://www.kaggle.com/c/bosch-production-line-performance/overview)**. Our dataset is extremely imbalanced with thousands of features. At data preparation stage, we oversampled the data by SMOTE and did feature engineering. Then we use **Spark SQL, Spark Dataframe, Spark Machine Learning API** and XGBoost to analyze data. We tried four different binary classification models: random forest model, logistic regression model and gradient boosted tree classifier. For evaluation, we use **Matthews Correlation Coefficient** (MCC) to evaluate the model. 
 
@@ -92,3 +90,5 @@ Besides, we would use alternative methods to deal with imbalanced, sparse data a
 
 
 ### Hope you enjoy our work! Thanks! :)
+
+Team Members: Qianying Diao, Jiaru Xu, Xinrong Chen, Shirley Zhang
